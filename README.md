@@ -1,1 +1,1 @@
-# Cse470_Project
+# Parking_Lot_Management_System
